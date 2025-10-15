@@ -1,11 +1,6 @@
 <h1 align="center">
   Rose S
 </h1>
-<h2 align="center">
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZeaZolf&style=flat-square&color=blue" alt=""/>
-</div>  
-</h1>
 
 ### Stuff I'm experienced in:
 <div>
@@ -17,7 +12,6 @@
 
 ### Statistics 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZeaZolf&theme=rose&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeaZolf&show_icons=true&theme=synthwave)
 
 ### Music
