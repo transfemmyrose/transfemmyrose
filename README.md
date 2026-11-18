@@ -12,7 +12,7 @@
 
 ### Statistics 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeaZolf&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=transfemmyrose&show_icons=true&theme=synthwave)
 
 ### Music
 
